@@ -1,0 +1,10 @@
+{
+	"sub":
+	[
+		[0, "What was that?"],
+		[1000, "I think it must be part of the\nMutant Study Program"],
+		[3800, "I must be careful"],
+		[5000, "Tess, please, be okay"],
+		[7800, "end"]
+	]
+}
